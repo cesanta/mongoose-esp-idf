@@ -4,7 +4,7 @@ name: Push Mongoose release to Espressif Component Service
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   upload_components:
