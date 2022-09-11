@@ -18,6 +18,5 @@ jobs:
         uses: espressif/github-actions/upload_components@master
         with:
           name: "mongoose"
-          version: "git"
           namespace: "cesanta"
           api_token: ${{ secrets.ESP_IDF_COMPONENT_API_TOKEN }}

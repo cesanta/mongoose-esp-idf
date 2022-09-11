@@ -1,4 +1,4 @@
-version: "7.8.1"
+version: "7.8.2"
 description: Embedded networking library with HTTP, Websocket, MQTT support
 url: https://github.com/cesanta/mongoose-esp-idf
 dependencies:
